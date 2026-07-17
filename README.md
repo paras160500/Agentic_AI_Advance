@@ -1,5 +1,7 @@
 # 🤖 Building Blocks of Agentic AI with LangGraph
 
+![Architecture Diagram](diagram.png)
+
 A focused, practical collection of **LangGraph agent patterns** — from the simplest sequential pipeline to a full iterative human-in-the-loop content generation system. Each script is a standalone, runnable Python program that demonstrates one core architectural idea in agentic AI.
 
 ---
